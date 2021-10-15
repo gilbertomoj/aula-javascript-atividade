@@ -1,0 +1,10 @@
+#buttons{
+    display: grid;
+    grid-template-columns: 30px 30px 30px;
+}
+
+.screen{
+    height: 40px;
+    width: auto;
+    border: 1px solid black;
+}
